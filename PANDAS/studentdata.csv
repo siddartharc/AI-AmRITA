@@ -1,0 +1,461 @@
+RollNo,Name,Gender,Branch,District,State,HorD,AdmissionYear,CGPA,Batch
+A14001,Sowmya ,Female,CSE,Hyderabad,ANDHRA PRADESH,Hostelite,2014,7.07,A
+A14003,Adarsh ,Male,CSE,Thrissur,KERALA,Dayscholar,2014,5.58,A
+A14004,Aiswarya ,Female,CSE,Trissur,KERALA,Dayscholar,2014,8.54,A
+A14005,Akhil ,Male,CSE,Kollam,KERALA,Dayscholar,2014,6.74,A
+A14006,Akshay ,Male,CSE,Kasaragode,KERALA,Dayscholar,2014,7.55,A
+A14007,Amrita ,Female,CSE,Kannur,KERALA,Dayscholar,2014,8.53,A
+A14008,Anagha,Female,CSE,Kollam,KERALA,Dayscholar,2014,8.04,A
+A14009,Anand ,Male,CSE,Kottayam,KERALA,Dayscholar,2014,6.09,A
+A14010,Mrudula,Female,CSE,Krishna,ANDHRA PRADESH,Dayscholar,2014,9.49,A
+A14011,Aparnna,Female,CSE,Pathanamthitta,KERALA,Hostelite,2014,6.65,A
+A14012,Arjun ,Male,CSE,Calicut,KERALA,Hostelite,2014,7.16,A
+A14014,Athira ,Female,CSE,Kottayam,KERALA,Hostelite,2014,8.65,A
+A14015, Rahul,Male,CSE,Nalgonda,ANDHRA PRADESH,Hostelite,2014,6.93,A
+A14017, Rahul,Male,CSE,Prakasam,ANDHRA PRADESH,Hostelite,2014,5.81,A
+A14018,Manish ,Male,CSE,NALGONDA,Telangana,Hostelite,2014,5.88,A
+A14019,Chirath,Male,CSE,Idukki,KERALA,Hostelite,2012,9.12,A
+A14020,DeviPriya ,Female,CSE,Kannur,KERALA,Hostelite,2012,7.74,A
+A14021,Divya ,Female,CSE,Alappuzha,KERALA,Dayscholar,2012,8.07,A
+A14022,Emmanuel,Male,CSE,Palakkad,KERALA,Hostelite,2012,7.13,A
+A14023,Tripura,Female,CSE,Guntur,ANDHRA PRADESH,Hostelite,2014,7.78,A
+A14024,Gayathri,Female,CSE,Palakkad,KERALA,Dayscholar,2014,8.58,A
+A14025,Gokul,Male,CSE,Kollam,KERALA,Dayscholar,2014,7.86,A
+A14028,Chaithanya,Female,CSE,Trivandrum,KERALA,Dayscholar,2014,8.75,A
+A14029,Harigovind,Male,CSE,Trivandrum,KERALA,Hostelite,2014,4.03,A
+A14030,Haritha ,Female,CSE,Kollam,KERALA,Dayscholar,2014,9.03,A
+A14031,Heeraj  ,Male,CSE,Palakkad,KERALA,Hostelite,2014,8.77,A
+A14032,Indhu C,Female,CSE,Tirupur,TAMIL NADU,Dayscholar,2011,6.66,A
+A14033,Surya ,Male,CSE,Gudavally,ANDHRA PRADESH,Dayscholar,2010,5.39,A
+A14034,Sravya,Female,CSE,East Godavari,ANDHRA PRADESH,Dayscholar,2011,9.64,A
+A14035,Yateesh,Male,CSE,Hyderabad,ANDHRA PRADESH,Dayscholar,2011,6.67,A
+A14036,Karthik ,Male,CSE,Thrissur,KERALA,Hostelite,2011,6.63,A
+A14037, Sravan ,Male,CSE,Kadapa,ANDHRA PRADESH,Dayscholar,2011,5.06,A
+A14038,Kripa ,Female,CSE,Rangareddy,ANDHRA PRADESH,Hostelite,2011,8.22,A
+A14039,Krithic,Male,CSE,Calicut,KERALA,Hostelite,2011,7.38,B
+A14040,Tharun,Male,CSE,Krishna,ANDHRA PRADESH,Dayscholar,2011,7.6,B
+A14041,Venkat,Male,CSE,Krishna,ANDHRA PRADESH,Hostelite,2011,8.46,B
+A14042,Lakshmi,Female,CSE,Thrissur,KERALA,Hostelite,2011,6.39,B
+A14043,Chandan,Male,CSE,Hyderabad,ANDHRA PRADESH,Dayscholar,2011,8.73,B
+A14044,Mahendra ,Male,CSE,Prakasam,ANDHRA PRADESH,Dayscholar,2010,9.57,B
+A14045,Saikrishnareddy,Male,CSE,Krishna,KERALA,Dayscholar,2010,5.44,B
+A14047,Avinash,Male,CSE,Srikakulam,ANDHRA PRADESH,Hostelite,2010,5.85,B
+A14048,Sanjay Varma,Male,CSE,West Godavari,ANDHRA PRADESH,Hostelite,2010,5.72,B
+A14049,Nandakishor ,Male,CSE,Alappuzha,KERALA,Hostelite,2010,8.21,B
+A14051,Showrya,Male,CSE,Hyderabad,ANDHRA PRADESH,Hostelite,2010,8.92,B
+A14052,Jagadeesh,Male,CSE,Karimnagar,ANDHRA PRADESH,Hostelite,2010,8.98,B
+A14053,Sai Kumar,Male,CSE,Visakhapatnam,ANDHRA PRADESH,Dayscholar,2010,6.88,B
+A14055,Priyanshu Das,Male,CSE,Bihar,BIHAR,Hostelite,2014,9.5,B
+A14056,Ramgopal ,Male,CSE,Trivandrum,KERALA,Dayscholar,2010,7.37,B
+A14057,Ramya,Female,CSE,Kannur,KERALA,Dayscholar,2010,8.89,B
+A14058,Sudarsan,Male,CSE,Idukki,TAMIL NADU,Dayscholar,2009,9.47,C
+A14059, Kaushik,Male,CSE,Hyderabad,ANDHRA PRADESH,Hostelite,2009,8.64,C
+A14060,Sandeep ,Male,CSE,Kannur,KERALA,Hostelite,2009,8.8,C
+A14061,Sarang,Male,CSE,Kollam,KERALA,Dayscholar,2009,7.39,C
+A14062,Shiv ,Male,CSE,Ernakulam,KERALA,Hostelite,2009,8.11,C
+A14063,Sidharth ,Male,CSE,Ernakulam,KERALA,Hostelite,2009,3.95,C
+A14064,Nikhil,Male,CSE,Krishna,ANDHRA PRADESH,Hostelite,2009,8.21,C
+A14065,Nikitha ,Female,CSE,R R District,ANDHRA PRADESH,Dayscholar,2009,9.4,C
+A14066,Sruthi ,Female,CSE,Thrissur,KERALA,Hostelite,2009,7.25,C
+A14067, Gupta,Male,CSE,Kochi,ORISSA,Dayscholar,2009,6.8,C
+A14068,Tarun,Male,CSE,Vishakhaptnam,ANDHRA PRADESH,Hostelite,2009,6.3,C
+A14069,Suryarjuna ,Male,CSE,Kannur,KERALA,Dayscholar,2009,7.93,C
+A14071,Charith,Male,CSE,Hyderabad,ANDHRA PRADESH,Dayscholar,2009,5.65,C
+A14072,Jaswanth,Male,CSE,Nellore,ANDHRA PRADESH,Hostelite,2009,3.55,C
+A14073,Yashwanth,Male,CSE,Visakapatnam,ANDHRA PRADESH,Hostelite,2008,5.96,C
+A14075,Lokesh,Male,CSE,Vijayawada,ANDHRA PRADESH,Dayscholar,2008,5.66,C
+A14076,Anjali ,Female,CSE,Kannur,KERALA,Dayscholar,2008,7.88,C
+A14077,Resya,Female,CSE,Thrissur,KERALA,Dayscholar,2008,9.29,C
+A14101,Swathvik ,Male,CSE,HYDERABAD,Telangana,Dayscholar,2008,6.41,C
+A14102,Adarsh K,Male,CSE,Palakkad,KERALA,Dayscholar,2008,7.91,C
+A14103,Adithya ,Male,CSE,Malappuram,KERALA,Hostelite,2008,8.4,C
+A14104,Ajay ,Male,CSE,Trivandrum,KERALA,Dayscholar,2008,9.6,C
+A14105,Akhil ,Male,CSE,Calicut,KERALA,Hostelite,2008,6.2,C
+A14106,Akshay Krishna M P,Male,CSE,Wayanad,KERALA,Hostelite,2008,6.73,C
+A14107,Amrita Sanjay,Female,CSE,Trivandrum,KERALA,Dayscholar,2008,8.84,C
+A14109,Anand Sukumar J V,Male,CSE,Kanyakumari,TAMIL NADU,Hostelite,2008,7.55,C
+A14110,Anupam T G,Male,CSE,Kozhikode,KERALA,Hostelite,2008,7.26,C
+A14111,Aravind R B,Male,CSE,Trivandrum,KERALA,Hostelite,2008,7.88,C
+A14112,Arun Babu,Male,CSE,Palakkad,KERALA,Dayscholar,2008,7.91,C
+A14113,Athira S,Female,CSE,Palakkad,KERALA,Dayscholar,2008,8.41,C
+A14114,Athul Krishna,Male,CSE,Kozhikode,KERALA,Hostelite,2008,9.07,D
+A14115,Balachander Srijith,Male,CSE,Rangareddy,Telangana,Hostelite,2008,9.52,D
+A14116,Bhavanam Venkata Subba Rami Reddy,Male,CSE,Prakasam,ANDHRA PRADESH,Hostelite,2008,6.07,D
+A14117,Chilukuri Shanmuka Saisaran,Male,CSE,Kurnool,ANDHRA PRADESH,Hostelite,2008,6.62,D
+A14118,Chethan Dev,Male,CSE,Kannur,KERALA,Hostelite,2008,7.57,D
+A14119,D Anirudh,Male,CSE,Hyderabad,Telangana,Dayscholar,2008,8.39,D
+A14120,Devi R Krishnan,Female,CSE,Trivandrum,KERALA,Dayscholar,2008,8.52,D
+A14121,E G Nidheep,Male,CSE,Wayanad,KERALA,Hostelite,2008,8.88,D
+A14124,Gokul Krishna P,Male,CSE,Ernakulam,KERALA,Dayscholar,2008,7.25,D
+A14125,Gokulakrishnan S R,Male,CSE,Salem,TAMIL NADU,Dayscholar,2008,8.62,D
+A14126,Goutham S,Male,CSE,Kollam,KERALA,Dayscholar,2008,7.69,D
+A14127,Gumduboina Seshu Babu,Male,CSE,Eluru,ANDHRA PRADESH,Hostelite,2008,6.22,D
+A14128,H Vinayak Nair,Male,CSE,Kollam,KERALA,Hostelite,2008,7.33,D
+A14129,Harikrishna K J,Male,CSE,Calicut,KERALA,Hostelite,2008,6.52,D
+A14131,Indeevar Madapakula,Male,CSE,Prakasam,ANDHRA PRADESH,Dayscholar,2008,8.47,D
+A14132,Inumella Chaitanya,Male,CSE,Krishna,ANDHRA PRADESH,Dayscholar,2008,8.7,D
+A14133,Jayakrishna Menon V,Male,CSE,Thrissur,KERALA,Hostelite,2008,9.27,D
+A14134,Kandimalla Vishnuvardhan,Male,CSE,Kurnool,ANDHRA PRADESH,Hostelite,2008,8.25,D
+A14135,Karicharla Srinidhi,Male,CSE,Hydrabad,ANDHRA PRADESH,Dayscholar,2008,7.84,D
+A14137,Kondapi Chandrika,Female,CSE,Ongole,ANDHRA PRADESH,Dayscholar,2008,7.18,D
+A14138,Krishnavajjala Krishna Samhitha,Female,CSE,Kurnool,ANDHRA PRADESH,Hostelite,2008,9.49,D
+A14139,Kuppili Venkata Sai Harsha Vardhan,Male,CSE,Vishakapatnam,ANDHRA PRADESH,Hostelite,2006,5.93,D
+A14140,Kurup Abhishek Suresh,Male,CSE,Patanamthitta,KERALA,Dayscholar,2006,7.55,D
+A14141,Lakshmi Niveditha Govindu,Female,CSE,Guntur,ANDHRA PRADESH,Hostelite,2006,7.7,D
+A14142,Lolla Sravani,Female,CSE,Hyderabad,ANDHRA PRADESH,Dayscholar,2006,5.58,D
+A14143,Maddula Pavan Kumar Reddy,Male,CSE,Guntur,ANDHRA PRADESH,Hostelite,2006,8.54,D
+A14144,Malavika Vinod,Female,CSE,Trivandrum,KERALA,Hostelite,2006,6.74,D
+A14145,Manduva Vinay Chowdary,Male,CSE,Ongole,ANDHRA PRADESH,Hostelite,2006,7.55,D
+A14146,Meghna Raj,Female,CSE,Pathanamthitta,KERALA,Hostelite,2006,8.53,D
+A14147,Movva Supriya,Female,CSE,Guntur,ANDHRA PRADESH,Hostelite,2006,8.4,D
+A14148,Mullapudi Aseesh,Male,CSE,West Godavari,ANDHRA PRADESH,Dayscholar,2006,6.09,D
+A14149,Neetish M M,Male,CSE,Trivandrum,KERALA,Hostelite,2006,9.49,D
+A14150,P Avinash,Male,CSE,Kharagpur,WEST BENGAL,Dayscholar,2006,6.65,D
+A14151,Pallavi M,Female,CSE,Alappuzha,KERALA,Hostelite,2006,7.16,D
+A14152,Panuganti Shashank,Male,CSE,Mahbubnagar,ANDHRA PRADESH,Dayscholar,2006,8.65,D
+A14153,Pranav I,Male,CSE,Malappuram,KERALA,Hostelite,2006,6.93,D
+A14154,Prata Surya Pavan Saketh,Male,CSE,Vizianagaram,ANDHRA PRADESH,Hostelite,2006,5.81,D
+A14155,Puttagunta Srirupa,Female,CSE,Guntur,ANDHRA PRADESH,Hostelite,2006,5.88,D
+A14156,Ramineni Manideep,Male,CSE,Krishna,ANDHRA PRADESH,Hostelite,2011,9.12,D
+A14157,S Sidharth Shankar,Male,CSE,Trivandrum,KERALA,Dayscholar,2011,7.74,D
+A14158,Sadhu Sai Kaushal,Male,CSE,Hydrabad,Telangana,Dayscholar,2011,8.07,D
+A14159,Sai Sampath Vadapalli,Male,CSE,Vishakapatnam,ANDHRA PRADESH,Dayscholar,2011,7.13,D
+A14160,Sannidhi Satya Venkata Krishna Prasanth,Male,CSE,East Godavari,ANDHRA PRADESH,Hostelite,2011,7.78,D
+A14161,Saurav Vinod,Male,CSE,Kannur,KERALA,Dayscholar,2011,8.58,D
+A14162,Sidharth M,Male,CSE,Palakkad,KERALA,Hostelite,2011,7.86,D
+A14163,Sreelakshmi Ajith,Female,CSE,Calicut,KERALA,Dayscholar,2011,8.75,D
+A14164,Sreerag Venugopal,Male,CSE,Malappuram,KERALA,Hostelite,2011,4.03,D
+A14165,Sriram S,Male,CSE,Trichur,KERALA,Dayscholar,2011,9.03,D
+A14166,Sruthy Murali,Female,CSE,Ernakulam,KERALA,Hostelite,2011,8.77,D
+A14167,Sura Lakshmana Rao,Male,CSE,Srikakolam,ANDHRA PRADESH,Dayscholar,2011,6.66,D
+A14168,Surapuram Akhil,Male,CSE,Mahabubnager,Telangana,Dayscholar,2011,5.39,D
+A14169,Tatikonda Shanmukha Sai Praneeth,Male,CSE,Chittoor,ANDHRA PRADESH,Hostelite,2011,9.64,D
+A14170,Udit S Joshi,Male,CSE,Kollam,KERALA,Dayscholar,2011,6.67,D
+A14171,Vaisakh M S,Male,CSE,Kannur,KERALA,Hostelite,2011,6.63,D
+A14172,Velagapudi Venkatesh,Male,CSE,Khammam,ANDHRA PRADESH,Hostelite,2011,5.6,D
+A14174,Yashwanth Veluri,Male,CSE,Hyderabad,ANDHRA PRADESH,Dayscholar,2011,8.22,D
+A14501,Gayathri C Ajayan,Female,CSE,Kottayam,KERALA,Hostelite,2011,7.38,D
+A14502,Bethu Vara Lakshmi,Female,CSE,Krishna,ANDHRA PRADESH,Dayscholar,2011,7.6,D
+A14503,Neha Naramsetty,Female,CSE,Ernakulam,KERALA,Dayscholar,2011,8.46,D
+A14504,Yarasani Sriharsha Reddy,Male,CSE,Anantapur,ANDHRA PRADESH,Hostelite,2010,6.39,D
+A14505,Ashwanth Unni,Male,CSE,Thiruvanathapuram,KERALA,Dayscholar,2010,8.73,D
+B14001,Abhijith M A,Male,ECE,Pattambi,KERALA,Dayscholar,2010,9.57,A
+B14002,Aishwarya Nambissan,Female,ECE,Trivandrum,KERALA,Dayscholar,2010,5.44,A
+B14003,Ajay Krishnan K,Male,ECE,Ernakulam,KERALA,Hostelite,2010,5.85,A
+B14004,Akhil A,Male,ECE,Kollam,KERALA,Hostelite,2010,5.72,A
+B14005,Akhilraj R,Male,ECE,Kollam,KERALA,Dayscholar,2010,8.21,A
+B14006,Akula Govardhan,Male,ECE,Kurnool,ANDHRA PRADESH,Hostelite,2010,8.92,A
+B14007,Amritasaranya V R,Female,ECE,Thrissur,KERALA,Dayscholar,2010,8.98,A
+B14008,Anandhu O,Male,ECE,Kollam,KERALA,Dayscholar,2010,6.88,A
+B14009,Anjali Unnikrishnan,Female,ECE,Ernakulam,KERALA,Hostelite,2010,9.5,A
+B14010,Ardha Abhinav Reddy,Male,ECE,Medak,ANDHRA PRADESH,Hostelite,2010,7.37,A
+B14011,Arjun Muralidharan Kottekkattu,Male,ECE,Thrissur,KERALA,Hostelite,2010,8.89,A
+B14012,Arsha Narayan,Female,ECE,Kannur,KERALA,Hostelite,2010,9.47,A
+B14014,Athira J Mohan,Female,ECE,Alappuzha,KERALA,Dayscholar,2010,8.64,A
+B14015,Bangaru Sumedh,Male,ECE,Kakinada,ANDHRA PRADESH,Dayscholar,2010,8.8,A
+B14016,Bharath Krishnan,Male,ECE,Alappuzha,KERALA,Hostelite,2010,7.39,A
+B14017,Chikkandru Damarukanadha Sesha Sai,Male,ECE,Kurnool,ANDHRA PRADESH,Hostelite,2010,8.11,A
+B14018,Chintakuntla  Santhoshi Manogna,Female,ECE,Kurnool,ANDHRA PRADESH,Hostelite,2010,3.95,A
+B14019,Deepti Krishnadas,Female,ECE,Palakkad,KERALA,Hostelite,2010,8.21,A
+B14020,Devika C,Female,ECE,Malappuram,KERALA,Hostelite,2010,9.4,A
+B14021,Devika Nair S,Female,ECE,Kollam,KERALA,Hostelite,2005,7.25,A
+B14022,Dubba Sai Poojitha,Female,ECE,Hyderabad,ANDHRA PRADESH,Dayscholar,2005,6.8,A
+B14023,Eadara Venkata Sai Varun Kumar,Male,ECE,Nellore,ANDHRA PRADESH,Hostelite,2005,6.3,A
+B14024,Gaddam Anudeep Reddy,Male,ECE,Nellore,ANDHRA PRADESH,Hostelite,2005,7.93,A
+B14027,Gayathri Venugopal,Female,ECE,Alappuzha,KERALA,Hostelite,2005,5.65,A
+B14028,Ghanshyam R Nath,Male,ECE,Kozhikode,KERALA,Dayscholar,2005,3.55,A
+B14029,Haripriya S Pradeep,Female,ECE,Kollam,KERALA,Dayscholar,2005,5.96,A
+B14030,Jampana Naga Venkata Siva Sai Kumar,Male,ECE,West Godavari,ANDHRA PRADESH,Dayscholar,2005,5.66,A
+B14031,Kancham Krishna Reddy Sai Tharun,Male,ECE,Anantapur,ANDHRA PRADESH,Hostelite,2005,7.88,A
+B14032,Katta Sri Ram,Male,ECE,Krishna,ANDHRA PRADESH,Hostelite,2005,9.29,A
+B14033,Kokkanti Sai Charan Reddy,Male,ECE,Anantapur,ANDHRA PRADESH,Dayscholar,2005,6.41,A
+B14034,Krishnapriya M,Female,ECE,Malappuram,KERALA,Dayscholar,2005,7.91,A
+B14035,Lakshmi M Nair,Female,ECE,Calicut,KERALA,Hostelite,2005,8.4,A
+B14036,Lekshmi Mohan,Female,ECE,Kollam,KERALA,Dayscholar,2005,9.6,A
+B14037,Mantha S S S Soundarya,Female,ECE,Vishakapatnam,ANDHRA PRADESH,Hostelite,2005,6.2,A
+B14038,Meenu Raj C,Female,ECE,Kozhikode,KERALA,Hostelite,2005,6.73,A
+B14039,Mohammed Juned Rahi,Male,ECE,Katihar,MAHARASHTRA,Dayscholar,2005,8.84,A
+B14040,Nellutla Ashwin Kashyap,Male,ECE,Khammam,ANDHRA PRADESH,Hostelite,2005,7.55,A
+B14041,Nimmala  Vijaysimha Reddy,Male,ECE,Khammam,ANDHRA PRADESH,Hostelite,2005,7.26,A
+B14042,Nunna Pavan Kalyan,Male,ECE,Guntur,ANDHRA PRADESH,Hostelite,2005,7.88,A
+B14043,Parsi Sai Himaja,Female,ECE,East Godavari,ANDHRA PRADESH,Hostelite,2005,7.91,A
+B14044,Pothu Anusha,Female,ECE,Nellore,ANDHRA PRADESH,Hostelite,2005,8.41,A
+B14046,Punugoti Sai Nikhil,Male,ECE,Prakasam,ANDHRA PRADESH,Dayscholar,2005,9.07,B
+B14047,R Arun Krishna,Male,ECE,Ernakulam,KERALA,Hostelite,2005,9.52,B
+B14048,Rahul R,Male,ECE,Kannur,KERALA,Hostelite,2013,6.07,B
+B14049,Revathy Raghav,Female,ECE,Kannur,KERALA,Dayscholar,2013,6.62,B
+B14051,Sarath Prakash Nair,Male,ECE,Kottayam,KERALA,Hostelite,2013,7.57,B
+B14053,Sheetal Bakde,Female,ECE,Jagadalpur,CHHATTISGARH,Hostelite,2013,8.39,B
+B14054,Sikha T C,Female,ECE,Kannur,KERALA,Hostelite,2013,8.52,B
+B14056,Suraj S Kamath,Male,ECE,Ernakulam,KERALA,Dayscholar,2013,8.88,B
+B14057,Thejus R,Male,ECE,Thrissur,KERALA,Hostelite,2013,7.25,B
+B14058,Uday Krishnan,Male,ECE,Kannur,KERALA,Hostelite,2013,8.62,B
+B14059,V Varun Rao,Male,ECE,Hyderabad,ANDHRA PRADESH,Hostelite,2013,7.69,B
+B14060,Veena Prasad,Female,ECE,Kottayam,KERALA,Hostelite,2013,6.22,B
+B14061,Vipin Narayanan S,Male,ECE,Kollam,KERALA,Hostelite,2013,7.33,B
+B14101,Adithya Ajith,Male,ECE,Trivandrum,KERALA,Hostelite,2013,6.52,B
+B14102,Aiswarya Nandan,Female,ECE,Pathanamthitta,KERALA,Dayscholar,2013,8.47,B
+B14103,Ajith Ashok,Male,ECE,Kollam,KERALA,Hostelite,2013,8.7,B
+B14104,Akhil Raj,Male,ECE,Kollam,KERALA,Hostelite,2013,9.27,B
+B14105,Akshay S Pillai,Male,ECE,Wayanad,KERALA,Hostelite,2013,8.25,B
+B14106,Amaravathi Vamsi Krishna,Male,ECE,Kurnool,ANDHRA PRADESH,Dayscholar,2013,7.84,B
+B14107,Ananda Krishnan,Male,ECE,Kottayam,KERALA,Hostelite,2013,7.18,B
+B14108,Anania S,Female,ECE,Kozhikode,KERALA,Hostelite,2013,9.49,B
+B14109,Aparna A,Female,ECE,Kottayam,KERALA,Hostelite,2013,5.93,B
+B14110,Ardra T,Female,ECE,Kozhikode,KERALA,Hostelite,2013,7.55,B
+B14111,Arjun Sahajan,Male,ECE,Kannur,KERALA,Hostelite,2013,7.7,B
+B14112,Ashwin Ashok,Male,ECE,Wayanad,KERALA,Hostelite,2013,5.58,B
+B14113,Aswathi Gopinath,Female,ECE,Palakkad,KERALA,Dayscholar,2013,8.54,B
+B14114,Babburi Aneela,Female,ECE,Guntur,ANDHRA PRADESH,Hostelite,2013,6.74,B
+B14116,Boddupalli Sricharan,Male,ECE,Guntur,ANDHRA PRADESH,Hostelite,2013,7.55,B
+B14117,Chinta Ravi Teja,Male,ECE,East Godavari,ANDHRA PRADESH,Hostelite,2013,8.53,B
+B14118,Chitluri Rahul Manohar,Male,ECE,West Godavari,ANDHRA PRADESH,Dayscholar,2013,8.4,B
+B14119,Deveswar Thampi,Male,ECE,Kottayam,KERALA,Hostelite,2013,6.09,B
+B14120,Devika Mohan,Female,ECE,Alappuzha,KERALA,Dayscholar,2013,9.49,B
+B14121,Diyyala Sai Surya,Male,ECE,Mahabubnagar,ANDHRA PRADESH,Dayscholar,2013,6.65,B
+B14122,Dusi Sai Akash,Male,ECE,Srikakulam,ANDHRA PRADESH,Hostelite,2013,7.16,B
+B14123,G K Mourya,Male,ECE,Ananthapuram,ANDHRA PRADESH,Hostelite,2014,8.65,B
+B14124,Gandavarapu Akhilesh Reddy,Male,ECE,Nellore,ANDHRA PRADESH,Dayscholar,2014,6.93,B
+B14126,Gayathri K S,Female,ECE,Kollam,KERALA,Hostelite,2014,5.81,B
+B14127,Gedela Vamsy Vivek,Male,ECE,Visakapatnam,ANDHRA PRADESH,Hostelite,2014,5.88,B
+B14128,Gone Sriteja,Male,ECE,Warangal,Telangana,Hostelite,2014,9.12,B
+B14129,Indu R J,Female,ECE,Kozhikode,KERALA,Hostelite,2014,7.74,B
+B14130,Jwala A,Female,ECE,Kollam,KERALA,Hostelite,2014,8.07,B
+B14131,Karthika K,Female,ECE,Dindigul,TAMIL NADU,Hostelite,2014,7.13,B
+B14133,Koppaka Ganesh Sai Apuroop,Male,ECE,Vishakapatnam,ANDHRA PRADESH,Hostelite,2014,7.78,B
+B14135,Lakshmi S,Female,ECE,Alappuzha,KERALA,Hostelite,2014,8.58,B
+B14136,M Ravi Kiran Reddy,Male,ECE,EASTGODAVARI,ANDHRA PRADESH,Dayscholar,2014,7.86,B
+B14137,Meenakshi Sreekumar,Female,ECE,Ernakulam,KERALA,Hostelite,2014,8.75,B
+B14138,Modemreddy Suryachaithanyareddy,Male,ECE,Chittoor,ANDHRA PRADESH,Dayscholar,2014,4.03,B
+B14140,Nikhila Raj,Female,ECE,Pathanamthitta,KERALA,Hostelite,2014,9.03,B
+B14141,Nukala Akhil,Male,ECE,Kurnool,ANDHRA PRADESH,Hostelite,2014,8.77,B
+B14143,Parvathi G R,Female,ECE,Kollam,KERALA,Hostelite,2014,6.66,B
+B14144,Prachi Singh,Female,ECE,Patna,BIHAR,Hostelite,2014,5.39,B
+B14145,Preeti Chauhan,Female,ECE,Mahendragarh,HARYANA,Hostelite,2014,9.64,B
+B14146,R Aravind Mohan,Male,ECE,Alappuzha,KERALA,Hostelite,2014,6.67,B
+B14147,Rahul Murali Warrier,Male,ECE,Thrissur,KERALA,Hostelite,2014,6.63,B
+B14149,S Arun Prakash,Male,ECE,Tirunelveli,TAMIL NADU,Hostelite,2012,5.6,B
+B14151,Sarath Sreekanth,Male,ECE,Wayanad,KERALA,Hostelite,2012,8.22,B
+B14153,Shiva Bandyopadhyay,Male,ECE,Trivandrum,KERALA,Hostelite,2012,7.38,B
+B14154,Sooraj Bhaskar A,Male,ECE,Ernakulam,KERALA,Hostelite,2012,7.6,B
+B14156,Swetha K S,Female,ECE,Pathanamthitta,KERALA,Hostelite,2012,8.46,B
+B14157,Thriveni B Krishnan,Female,ECE,Alappuzha,KERALA,Dayscholar,2012,6.39,B
+B14158,Usthili Likhith Kumar Reddy,Male,ECE,Anantapur,ANDHRA PRADESH,Dayscholar,2012,8.73,B
+B14159,Vallabhaneni Prudhvi Raj,Male,ECE,Prakasam,ANDHRA PRADESH,Dayscholar,2012,9.57,B
+B14161,Vishnu Narayanan,Male,ECE,Trivandrum,KERALA,Hostelite,2012,5.44,B
+B14163,Yellapantula Venkata Raghuram,Male,ECE,Vishakapatnam,ANDHRA PRADESH,Hostelite,2012,5.85,B
+B14164,Shilpa Nath,Female,ECE,Ernakulam,KERALA,Hostelite,2012,5.72,B
+C14001,Aarathy Babu,Female,EEE,Alappuzha,KERALA,Hostelite,2012,8.21,A
+C14002,Adithya Varma P K,Male,EEE,Pathanamthitta,KERALA,Dayscholar,2012,8.92,A
+C14003,Adwait S Anand,Male,EEE,Kozhikode,KERALA,Hostelite,2012,8.98,A
+C14004,Ajay  ,Male,EEE,Trivandrum,KERALA,Hostelite,2012,6.88,A
+C14005,Akhil Santhosh,Male,EEE,Ernakulam,KERALA,Dayscholar,2012,9.5,A
+C14006,Amoolya Sindhu,Female,EEE,Kollam,KERALA,Hostelite,2012,7.37,A
+C14007,Anirudh K V,Male,EEE,Kozhikode,KERALA,Dayscholar,2012,8.89,A
+C14009,Aromal V,Male,EEE,Kollam,KERALA,Dayscholar,2012,9.47,A
+C14010,Arul Raj P,Male,EEE,Thrissur,KERALA,Hostelite,2012,8.64,A
+C14012,B Arun,Male,EEE,Andaman,ANDAMAN AND NICOBAR ISLANDS,Hostelite,2012,8.8,A
+C14013,Chaithanya S,Female,EEE,kannur,KERALA,Hostelite,2012,7.39,A
+C14014,Chamarthi Venkata Sai Gireesh,Male,EEE,Tirupati,ANDHRA PRADESH,Hostelite,2012,8.11,A
+C14015,Dheeraj Krishna V,Male,EEE,Kozhikode,KERALA,Dayscholar,2012,3.95,A
+C14016,Gautham S,Male,EEE,Kollam,KERALA,Dayscholar,2012,8.21,A
+C14017,Gayathri S Sunil,Female,EEE,Kollam,KERALA,Hostelite,2012,9.4,A
+C14018,Gokulnath G L,Male,EEE,Trivandrum,KERALA,Hostelite,2012,7.25,A
+C14019,Goutham Menon,Male,EEE,Thrissur,KERALA,Hostelite,2012,6.8,A
+C14020,Jonnadula Venkata Sai Pavan Kumar,Male,EEE,Krishna,ANDHRA PRADESH,Hostelite,2012,6.3,A
+C14021,Kambagouni V Surya Teja,Male,EEE,Kurnool,ANDHRA PRADESH,Dayscholar,2012,7.93,A
+C14022,Karuturi Sai Dheeraj,Male,EEE,East Godavari,ANDHRA PRADESH,Hostelite,2012,5.65,A
+C14023,M Deb Jyothi Mohan,Male,EEE,Kannur,KERALA,Hostelite,2012,3.55,A
+C14024,M S Omkar,Male,EEE,Thiruvanathapuram,KERALA,Hostelite,2012,5.96,A
+C14025,Mamidi Bharath Kumar,Male,EEE,Srikakulam,ANDHRA PRADESH,Hostelite,2012,5.66,A
+C14027,Modupalli Surendra Babu,Male,EEE,Ananthapur,ANDHRA PRADESH,Hostelite,2012,7.88,A
+C14029,Navami Gopan,Female,EEE,Kollam,KERALA,Hostelite,2012,9.29,A
+C14030,Neeraj Vasudev OP,Male,EEE,Kozhikode,KERALA,Hostelite,2012,6.41,A
+C14031,Nihara T,Female,EEE,Kozhikode,KERALA,Hostelite,2012,7.91,A
+C14032,P Dilip Kumar,Male,EEE,Bilaspur,CHHATTISGARH,Hostelite,2012,8.4,A
+C14033,Pardha Sai Sathwick Kotagiri,Male,EEE,Tapi,GUJARAT,Hostelite,2012,9.6,A
+C14034,Pranav Venugopal,Male,EEE,Ernakulam,KERALA,Hostelite,2012,6.2,A
+C14035,Resmi Raveendran,Female,EEE,Kollam,KERALA,Dayscholar,2012,6.73,A
+C14036,Roji Thomas Mathew,Male,EEE,Alappuzha,KERALA,Hostelite,2012,8.84,A
+C14037,Sarang S,Male,EEE,Kottayam,KERALA,Dayscholar,2010,7.55,A
+C14039,Siddharth S,Male,EEE,Kollam,KERALA,Dayscholar,2010,7.26,A
+C14040,Soda Venkata Adithya Vardhan Reddy,Male,EEE,Prakasam,ANDHRA PRADESH,Hostelite,2010,7.88,A
+C14041,Sreeram Thattat,Male,EEE,Thrissur,KERALA,Dayscholar,2010,7.91,A
+C14042,V Ananda Krishnan Nair,Male,EEE,Kollam,KERALA,Dayscholar,2010,8.41,A
+C14044,Vishnu Jayan,Male,EEE,Thrissur,KERALA,Hostelite,2010,9.07,A
+C14045,Goneypalli Vinay Vardhan,Male,EEE,Prakasam,ANDHRA PRADESH,Hostelite,2010,9.52,A
+C14046,Pendlimarri Lakshmi Aravinda Swamy,Male,EEE,Kadapa,ANDHRA PRADESH,Hostelite,2010,6.07,A
+C14047,Veerabommala Balaji Varun Gupta,Male,EEE,Chittoor,ANDHRA PRADESH,Hostelite,2010,6.62,A
+C14048,Amaya V,Female,EEE,Kannur,KERALA,Hostelite,2010,7.57,A
+C14101,Adhira Anil Kumar Pillai,Female,EEE,Pathanamthitta,KERALA,Hostelite,2010,8.39,A
+C14102,Aditya Pattiyeri,Male,EEE,Calicut,KERALA,Hostelite,2010,8.52,B
+C14103,Aiswarya P R,Female,EEE,Kozhikode,KERALA,Hostelite,2010,8.88,B
+C14104,Akash Anil,Male,EEE,Palakkad,KERALA,Hostelite,2010,7.25,B
+C14105,Akshay N,Male,EEE,Palakkad,KERALA,Hostelite,2010,8.62,B
+C14106,Anirudh Chithrabhanu,Male,EEE,Pathanamthitta,KERALA,Hostelite,2010,7.69,B
+C14107,Anish M Tharur,Male,EEE,Palakkad,KERALA,Hostelite,2010,6.22,B
+C14108,Arjun Krishna,Male,EEE,Pathanamthitta,KERALA,Hostelite,2010,7.33,B
+C14109,Arpan Dev M,Male,EEE,Thrissur,KERALA,Hostelite,2010,6.52,B
+C14110,Arul Varma,Male,EEE,Kollam,KERALA,Hostelite,2010,8.47,B
+C14111,Aswini Manoharan,Female,EEE,Kannur,KERALA,Dayscholar,2010,8.7,B
+C14112,Bhagyasri T G,Female,EEE,Kozhikode,KERALA,Hostelite,2010,9.27,B
+C14113,Chalamalasetti Yaswanth,Male,EEE,Vijayawada,ANDHRA PRADESH,Hostelite,2010,8.25,B
+C14114,D Aswin Varma,Male,EEE,Trivandrum,KERALA,Hostelite,2010,7.84,B
+C14115,Divakaran O M,Male,EEE,Palakkad,KERALA,Hostelite,2010,7.18,B
+C14116,Gayathri Jothy Basu,Female,EEE,Thrissur,KERALA,Hostelite,2010,9.49,B
+C14117,Gopikrishna S Menon,Male,EEE,Cochin,KERALA,Hostelite,2010,5.93,B
+C14119,K J Lokesh,Male,EEE,Chittoor,ANDHRA PRADESH,Hostelite,2014,7.55,B
+C14121,Kondapu Manohar Reddy,Male,EEE,Vishakhaptnam,ANDHRA PRADESH,Hostelite,2014,7.7,B
+C14122,M S Amrithesh,Male,EEE,Chennai,TAMIL NADU,Hostelite,2014,5.58,B
+C14123,Mahesh Ratheesh,Male,EEE,Thiruvanathapuram,KERALA,Hostelite,2014,8.54,B
+C14124,Manasa T S R,Female,EEE,Hyderabad,ANDHRA PRADESH,Hostelite,2014,6.74,B
+C14125,Megha Anil,Female,EEE,Alappuzha,KERALA,Hostelite,2014,7.55,B
+C14126,Nair Rishi Unnikrishnan,Male,EEE,Alappuzha,KERALA,Dayscholar,2014,8.53,B
+C14127,Nandu V,Male,EEE,Alappuzha,KERALA,Hostelite,2014,8.4,B
+C14128,Navneeth N Ramachandran,Male,EEE,Thrissur,KERALA,Hostelite,2014,6.09,B
+C14130,Noonela Sai Yashaswi,Male,EEE,Vishakapatnam,ANDHRA PRADESH,Hostelite,2014,9.49,B
+C14131,Paidipalli Hemanth Krishna,Male,EEE,Khammam,ANDHRA PRADESH,Hostelite,2014,6.65,B
+C14132,Peddireddi Venkata Sai Somarajsaketh,Male,EEE,West Godavari,ANDHRA PRADESH,Dayscholar,2014,7.16,B
+C14134,Rohith S Prabhu,Male,EEE,Kollam,KERALA,Hostelite,2014,8.65,B
+C14135,Sachin Narayanan R,Male,EEE,salem,TAMIL NADU,Hostelite,2014,6.93,B
+C14136,Sareddy Chandrakanth Reddy,Male,EEE,Nalgonda,ANDHRA PRADESH,Hostelite,2014,5.81,B
+C14137,Shilpa Narayanan,Female,EEE,Thrissur,KERALA,Hostelite,2014,5.88,B
+C14138,Sigatapu Priyanka,Female,EEE,Chennai,TAMIL NADU,Hostelite,2014,9.12,B
+C14139,Sreelakshmi Prasad K,Female,EEE,Kozhikode,KERALA,Hostelite,2014,7.74,B
+C14140,Uppuluri Meher Priyatam,Male,EEE,West Godavari,ANDHRA PRADESH,Hostelite,2014,8.07,B
+C14141,Vaisakh Naduvodi Viswambharan,Male,EEE,Thrissur,KERALA,Dayscholar,2014,7.13,B
+C14142,Varikooti Vishnu Vardhan Reddy,Male,EEE,Prakasam,ANDHRA PRADESH,Hostelite,2014,7.78,B
+C14143,Vishnu Raj A,Male,EEE,Kollam,KERALA,Dayscholar,2014,8.58,B
+C14144,Yadhukrishnan P K,Male,EEE,Malappuram,KERALA,Hostelite,2014,7.86,B
+C14145,Gujja Rohith,Male,EEE,karimnagar,Telangana,Hostelite,2014,8.75,B
+C14146,Vijay Vinod,Male,EEE,Kannur,KERALA,Hostelite,2014,4.03,B
+C14147,Nannapureddy Rajasekhar Reddy,Male,EEE,Nellore,ANDHRA PRADESH,Hostelite,2014,9.03,B
+C14148,Sadineni Sai Rohith,Male,EEE,Khammam,Telangana,Hostelite,2014,8.77,B
+C14149,Ajay Krishna V,Male,EEE,Malappuram,KERALA,Hostelite,2014,6.66,B
+D14001,Abburi Bharat,Male,ME,Visakhapatnam,ANDHRA PRADESH,Hostelite,2014,5.39,A
+D14002,Abhimanyu K,Male,ME,Thrissur,KERALA,Hostelite,2014,9.64,A
+D14003,Abhinav Pillai,Male,ME,Jaipur,RAJASTHAN,Hostelite,2014,6.67,A
+D14004,Abhiram B R,Male,ME,Kollam,KERALA,Dayscholar,2014,6.63,A
+D14005,Achindya Nath,Male,ME,Kozhikode,KERALA,Dayscholar,2014,5.6,A
+D14006,Adarsh V,Male,ME,Kozhikode,KERALA,Hostelite,2014,8.22,A
+D14007,Ajith Aravindan Nair,Male,ME,Thrissur,KERALA,Dayscholar,2014,7.38,A
+D14008,Akhil Krishna C R,Male,ME,Palakkad,KERALA,Hostelite,2014,7.6,A
+D14010,Akshay M K,Male,ME,Wayanad,KERALA,Hostelite,2014,8.46,A
+D14011,Akshay S Kumar,Male,ME,Pathanamthitta,KERALA,Dayscholar,2014,6.39,A
+D14012,Ameen Z,Male,ME,Kollam,KERALA,Dayscholar,2013,8.73,A
+D14013,Anandakrishnan G,Male,ME,Kollam,KERALA,Dayscholar,2013,9.57,A
+D14014,Anbarasu G,Male,ME,Cuddalore,TAMIL NADU,Dayscholar,2013,5.44,A
+D14015,Aravind Sasidharan Veluthedath,Male,ME,Thrissur,KERALA,Dayscholar,2013,5.85,A
+D14017,Ashish U S,Male,ME,Patna,BIHAR,Hostelite,2013,5.72,A
+D14018,Aswin V Kumar,Male,ME,Kottayam,KERALA,Dayscholar,2013,8.21,A
+D14019,Bandaru Rama Hruday,Male,ME,Visakhapatnam,ANDHRA PRADESH,Dayscholar,2013,8.92,A
+D14020,Bijoy Sasikumar,Male,ME,Malappuram,KERALA,Dayscholar,2013,8.98,A
+D14021,Chandu Chandran,Male,ME,Kottayam,KERALA,Dayscholar,2013,6.88,A
+D14022,Chavan Ishan Avinash,Male,ME,Solapur,MAHARASHTRA,Dayscholar,2013,9.5,A
+D14023,Chiranjeevi K P,Male,ME,Erode,TAMIL NADU,Dayscholar,2013,7.37,A
+D14024,Dinesh Adithiya C K M,Male,ME,Tiruvallur,TAMIL NADU,Dayscholar,2013,8.89,A
+D14025,G Aravind,Male,ME,Kottayam,KERALA,Hostelite,2013,9.47,A
+D14026,Gautham Krishna,Male,ME,Kollam,KERALA,Dayscholar,2013,8.64,A
+D14027,Gokul Krishna S,Male,ME,Ernakulam,KERALA,Dayscholar,2013,8.8,A
+D14028,Gongati Manoj Reddy,Male,ME,Kurnool,ANDHRA PRADESH,Hostelite,2013,7.39,A
+D14029,Harihara Subramanian R,Male,ME,Ernakulam,KERALA,Dayscholar,2013,8.11,A
+D14030,Harikrishnan J,Male,ME,Kollam,KERALA,Dayscholar,2013,3.95,A
+D14031,Harikrishnan R,Male,ME,Kollam,KERALA,Dayscholar,2013,8.21,A
+D14032,Hithesh U,Male,ME,Palakkad,KERALA,Hostelite,2013,9.4,A
+D14033,Jishnu A P,Male,ME,Trivandrum,KERALA,Dayscholar,2013,7.25,A
+D14034,Jithin S,Male,ME,Palakkad,KERALA,Dayscholar,2013,6.8,A
+D14035,K Somasekhar Reddy,Male,ME,Bangalore,ANDHRA PRADESH,Dayscholar,2013,6.3,A
+D14036,Kopparthi Naga Satya Srinivas,Male,ME,West Godavari,ANDHRA PRADESH,Hostelite,2013,7.93,A
+D14037,Krishnanunni K V,Male,ME,Kannur,KERALA,Dayscholar,2013,5.65,A
+D14038,Krishnanandh K K,Male,ME,Kollam,KERALA,Dayscholar,2013,3.55,A
+D14039,M Vishnu Dutt,Male,ME,Kottayam,KERALA,Dayscholar,2013,5.96,A
+D14040,Malla Venkata Naveen Kumar,Male,ME,Ukkunagaram,ANDHRA PRADESH,Dayscholar,2013,5.66,A
+D14043,Nidhin Antony,Male,ME,Thrissur,KERALA,Hostelite,2013,7.88,A
+D14044,Panduri Sai Teja,Male,ME,Visakhapatnam,ANDHRA PRADESH,Hostelite,2013,9.29,A
+D14045,Peter Bernard,Male,ME,Kollam,KERALA,Dayscholar,2013,6.41,A
+D14046,Pragatheeswaran T,Male,ME,Trivandrum,KERALA,Dayscholar,2013,7.91,A
+D14047,Rahul K G,Male,ME,Palakkad,KERALA,Dayscholar,2013,8.4,A
+D14048,Ramanath R R,Male,ME,Kanyakumari,TAMIL NADU,Dayscholar,2013,9.6,A
+D14050,Sandeep S,Male,ME,Alappuzha,KERALA,Hostelite,2013,6.2,A
+D14051,Sanivada Ajay Kumar,Male,ME,Visakhapatnam,ANDHRA PRADESH,Hostelite,2013,6.73,A
+D14052,Sarath Mohana Krishnan,Male,ME,Thrissur,KERALA,Hostelite,2013,8.84,A
+D14053,Sarun P Pillai,Male,ME,Pathanamthitta,KERALA,Dayscholar,2013,7.55,A
+D14054,Shravan Sakarla,Male,ME,Ernakulam,KERALA,Dayscholar,2013,7.26,A
+D14056,Sreehari P Nair,Male,ME,Thrissur,KERALA,Hostelite,2013,7.88,A
+D14057,Sreeraj S,Male,ME,Pathanamthitta,KERALA,Dayscholar,2013,7.91,A
+D14058,Sreeram K S,Male,ME,Trivandrum,KERALA,Hostelite,2013,8.41,A
+D14059,Tharun R,Male,ME,Kollam,KERALA,Dayscholar,2013,9.07,A
+D14060,Veerlapati Saikumar,Male,ME,Nalgonda,ANDHRA PRADESH,Dayscholar,2013,9.52,A
+D14061,Venkata Sandeep Reddy Avuthu,Male,ME,Visakhapatnam,ANDHRA PRADESH,Hostelite,2013,6.07,A
+D14062,Vibhas M,Male,ME,Kasaragod,KERALA,Hostelite,2013,6.62,A
+D14063,Vikas Babu K P,Male,ME,Madurai,TAMIL NADU,Dayscholar,2013,7.57,A
+D14064,Vinaykarun K,Male,ME,Kozhikode,KERALA,Hostelite,2013,8.39,A
+D14065,Vishnu Haridas,Male,ME,Malappuram,KERALA,Dayscholar,2013,8.52,A
+D14066,Vishnu V,Male,ME,Pathanamthitta,KERALA,Hostelite,2013,8.88,A
+D14067,Vishnu Vijay,Male,ME,Kozhikode,KERALA,Dayscholar,2013,7.25,A
+D14101,Abhimanyu J,Male,ME,Pathanamthitta,KERALA,Dayscholar,2013,8.62,A
+D14102,Abhimanyu S Kamath,Male,ME,Ernakulam,KERALA,Hostelite,2013,7.69,A
+D14103,Abhinav Pushpakath,Male,ME,Thrissur,KERALA,Hostelite,2013,6.22,A
+D14104,Abhishek S,Male,ME,Kannur,KERALA,Hostelite,2013,7.33,A
+D14105,Adarsh Thirumandalathil,Male,ME,Kannur,KERALA,Hostelite,2013,6.52,A
+D14107,Akash Mohanan,Male,ME,Kannur,KERALA,Hostelite,2012,8.47,A
+D14108,Akhil Mohandas,Male,ME,Kannur,KERALA,Hostelite,2012,8.7,A
+D14109,Akshay A R,Male,ME,Kollam,KERALA,Dayscholar,2012,9.27,A
+D14110,Akshay P,Male,ME,Kannur,KERALA,Hostelite,2012,8.25,A
+D14111,Amarnath K V,Male,ME,Kannur,KERALA,Hostelite,2012,7.84,A
+D14112,Amith Augustin,Male,ME,Kollam,KERALA,Dayscholar,2012,7.18,A
+D14113,Ananthakrishnan M,Male,ME,Alappuzha,KERALA,Dayscholar,2012,9.49,A
+D14114,Ankith Madhu,Male,ME,Alappuzha,KERALA,Hostelite,2012,5.93,A
+D14115,Arif Hussain,Male,ME,Alappuzha,KERALA,Dayscholar,2012,7.55,B
+D14116,Ashij S,Male,ME,Kozhikode,KERALA,Hostelite,2012,7.7,B
+D14117,Aswin K B,Male,ME,Kozhikkode,KERALA,Hostelite,2012,5.58,B
+D14118,Aswinchandran S,Male,ME,Kozhikode,KERALA,Hostelite,2012,8.54,B
+D14119,Batchu Sai Naga Vinay Mouli,Male,ME,East Godavari,ANDHRA PRADESH,Hostelite,2012,6.74,B
+D14120,Chakka Sandeep Yadav,Male,ME,Tirupati,ANDHRA PRADESH,Hostelite,2012,7.55,B
+D14122,Chinta Sai Sravanth,Male,ME,East Godavari,ANDHRA PRADESH,Hostelite,2012,8.53,B
+D14124,Doddi Uma Shankar Lova Sai Manohar,Male,ME,Visakhapatnam,ANDHRA PRADESH,Hostelite,2012,8.4,B
+D14125,G Sarath,Male,ME,Srikakulam,ANDHRA PRADESH,Hostelite,2012,6.09,B
+D14126,Girish Nayar,Male,ME,Ernakulam,KERALA,Hostelite,2012,9.49,B
+D14127,Gokul R,Male,ME,Calicut,KERALA,Hostelite,2012,6.65,B
+D14128,Guggulla Damodar Reddy,Male,ME,Ananthapur,ANDHRA PRADESH,Hostelite,2012,7.16,B
+D14129,Harikesh Prasad,Male,ME,Palakkad,KERALA,Hostelite,2012,8.65,B
+D14130,Harikrishnan P,Male,ME,Palakkad,KERALA,Hostelite,2012,6.93,B
+D14131,Harisankar S,Male,ME,Calicut,KERALA,Hostelite,2012,5.81,B
+D14132,J V M Srikrishna Manikanta Pani,Male,ME,East Godavari,ANDHRA PRADESH,Dayscholar,2012,5.88,B
+D14133,Jithin Raj S S,Male,ME,Kozhikode,KERALA,Hostelite,2012,9.12,B
+D14134,Jothivel M,Male,ME,Coimbatore,TAMIL NADU,Hostelite,2012,7.74,B
+D14135,Karaggi Abhishek,Male,ME,Srikakulam,ANDHRA PRADESH,Hostelite,2012,8.07,B
+D14136,Kotivada Raja Ram Praveen Kumar,Male,ME,Visakhapatnam,ANDHRA PRADESH,Dayscholar,2012,7.13,B
+D14137,Krishna Raj A,Male,ME,Kollam,KERALA,Dayscholar,2012,7.78,B
+D14138,M Gautham,Male,ME,Alappuzha,KERALA,Dayscholar,2012,8.58,B
+D14139,Madhan Kamaraj K,Male,ME,Ramakrishna Puram,TAMIL NADU,Hostelite,2012,7.86,B
+D14140,Mudunuri Vinay Sudheer Varma,Male,ME,Visakhapatnam,ANDHRA PRADESH,Hostelite,2012,8.75,B
+D14141,Mukesh V Shinde,Male,ME,Alappuzha,KERALA,Dayscholar,2012,4.03,B
+D14142,Naveen K Dinesh,Male,ME,Thrissur,KERALA,Hostelite,2012,9.03,B
+D14144,Pasupuleti Avinash,Male,ME,Khammam,ANDHRA PRADESH,Hostelite,2012,8.77,B
+D14145,Potturi Akhilesh Chowdary,Male,ME,S P S R Nellore,ANDHRA PRADESH,Hostelite,2012,6.66,B
+D14147,Rajeev Warrier,Male,ME,Palakkad,KERALA,Hostelite,2012,5.39,B
+D14148,Ramdas V Menon,Male,ME,Thrissur,KERALA,Hostelite,2012,9.64,B
+D14149,S Shyam Shenoi,Male,ME,Ernakulam,KERALA,Dayscholar,2012,6.67,B
+D14150,Sandeep S,Male,ME,Kottayam,KERALA,Dayscholar,2012,6.63,B
+D14151,Sanjay Krishna M S,Male,ME,Ernakulam,KERALA,Hostelite,2012,5.6,B
+D14152,Sareesh Haridas,Male,ME,Malappuram,KERALA,Dayscholar,2012,8.22,B
+D14153,Sharath Jayadharan,Male,ME,Kollam,KERALA,Dayscholar,2012,7.38,B
+D14154,Shreekanth Vijayakrishnan,Male,ME,Palakkad,KERALA,Hostelite,2012,7.6,B
+D14155,Sidharth S Nambissan,Male,ME,Kannur,KERALA,Hostelite,2012,8.46,B
+D14156,Sreehari Vinod,Male,ME,Kasaragod,KERALA,Hostelite,2012,6.39,B
+D14157,Sreeraj V,Male,ME,Ernakulam,KERALA,Hostelite,2012,8.73,B
+D14158,Sreyas Babu,Male,ME,Kozhikode,KERALA,Dayscholar,2012,9.57,B
+D14159,Vangolu Shashank Reddy,Male,ME,Kadappa,ANDHRA PRADESH,Hostelite,2012,5.44,B
+D14160,Venkata Naga Srirama Manikanta A,Male,ME,West Godavari,ANDHRA PRADESH,Hostelite,2008,5.85,B
+D14161,Vetcha Pardha Saradhi,Male,ME,Krishna,ANDHRA PRADESH,Hostelite,2008,5.72,B
+D14162,Vignesh Parameswaran,Male,ME,Ernakulam,KERALA,Dayscholar,2008,8.21,B
+D14163,Vinayak Jothy Basu,Male,ME,Thrissur,KERALA,Dayscholar,2008,8.92,B
+D14164,Vipin P,Male,ME,Palakkad,KERALA,Dayscholar,2008,8.98,B
+D14165,Vishnu S,Male,ME,Palakkad,KERALA,Hostelite,2008,6.88,B
+D14166,Vishnu Valsan K,Male,ME,Thrissur,KERALA,Hostelite,2008,9.5,B
+D14167,Shain Abraham Alex,Male,ME,Kollam,KERALA,Hostelite,2008,7.37,B
+D14501,Sreekanth S,Male,ME,Alappuzha,KERALA,Hostelite,2008,8.89,B
+D14502,Subhash R,Male,ME,Dindigul,TAMIL NADU,Dayscholar,2008,9.47,B
+D14503,Vishnusai Chellam,Male,ME,Trivandrum,KERALA,Hostelite,2008,8.64,B
+D14504,Savitri V,Female,ME,Tirunelveli,TAMIL NADU,Dayscholar,2008,8.8,B
